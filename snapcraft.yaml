@@ -6,7 +6,7 @@ description: |
 confinement: strict
 type: base
 ## Self-reference much?! =)
-## The plugin used by part 'boostrap' does not support snaps using base 'core20'.
+## The plugin used by part 'bootstrap' does not support snaps using base 'core20'.
 #base: core20
 base: core18
 
@@ -14,7 +14,7 @@ base: core18
 grade: devel
 
 parts:
-  boostrap:
+  bootstrap:
     plugin: make
     source: .
     build-packages:
