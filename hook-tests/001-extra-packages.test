@@ -71,7 +71,7 @@ libhogweed4:amd64
 libidn11:amd64
 libidn2-0:amd64
 libip4tc0:amd64
-libjson-c3:amd64
+libjson-c4:amd64
 libkmod2:amd64
 liblz4-1:amd64
 liblzma5:amd64
